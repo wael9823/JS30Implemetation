@@ -1,6 +1,7 @@
 # JS30Implemetation
 
 Hey folks,
+
 I am Wael and I am on my journey to learn JavaScript. Apart the textbook code implementation that I am working on in the other repository,
 I decided to create more repositories where I can display JS projects that I am learning and making through a bunch of resources.
 My main focus for this repository is to implement the projects shown by Wes Bos, where he only uses "vanilla JS". What that means is JS 
