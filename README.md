@@ -16,4 +16,5 @@ to learn pure JS.
 https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks
 
 If there is anything I can help you with, please do reach out and I shall get back to you as soon as possible.
+
 Keep learning, keep growing and have fun while you are at it.
