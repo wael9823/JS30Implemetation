@@ -3,7 +3,7 @@
 Hey folks,
 
 I am Wael and I am on my journey to learn JavaScript. Apart the textbook code implementation that I am working on in the other repository,
-I decided to create more repositories where I can display JS projects that I am learning and making through a bunch of resources.
+I decided to create more repositories where I can display JS projects that I am making by learning from a bunch of resources.
 My main focus for this repository is to implement the projects shown by Wes Bos, where he only uses "vanilla JS". What that means is JS 
 without any framework like jquery and others. The link below should take you to his free 30 projects in 30 days that I am trying to learn and 
 hopefully modify it in my own style, functionality and look in the near future.
